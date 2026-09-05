@@ -480,6 +480,4 @@ docker compose down -v
 
 ## Результат
 
-После запуска приложение доступно через Swagger:
-
 ![Результат работы](images/improved-rag-result.png)
