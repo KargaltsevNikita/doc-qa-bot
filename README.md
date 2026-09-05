@@ -482,4 +482,4 @@ docker compose down -v
 
 После запуска приложение доступно через Swagger:
 
-![Результат работы](images/images/improved-rag-result.png)
+![Результат работы](images/improved-rag-result.png)
