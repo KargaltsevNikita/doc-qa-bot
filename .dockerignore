@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+.git/
+.gitignore
+
+.idea/
+
+.env
+
+evaluation/rag_logs.jsonl
